@@ -1,0 +1,16 @@
+.list {
+    list-style: none;
+    margin-left: 94px;
+
+    display: flex;
+    gap: 24px;
+}
+
+.item {
+    color:blueviolet;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+}
